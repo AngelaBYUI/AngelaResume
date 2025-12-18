@@ -1,89 +1,60 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Angela's CV
 ---
-# Isaac Newton
+# Angela Chen
 Physicist, Mathematician, Cambridge professor.
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="https://angelabyui.github.io/AngelaResume/">https://angelabyui.github.io/AngelaResume/</a>
+| <a href="https://www.linkedin.com/in/angelapc-chen/">My LinkedIn page</a>
 </div>
 
 
 ## Currently
 
-Standing on the shoulders of giants
+Working for the Education System in Church of Jesus Christ of Latter Day Saint
 
 ### Specialized in
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+Java | Python | HTML | CSS | JavaScript | Node.JS | React
 
 
 ### Research interests
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
+Meta, Google, Amazon, Microsoft
 
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`2022-2024`
+__Ensign College__
 
-`June 1661 - now`
-__Trinity College, Cambridge__
-
-- Sizar
-
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
+`2025 Sep - now`
+__BYU-Idaho__
 
 
-
-## Awards
-
-`2012`
-President, *Royal Society*, London, UK
-
-Associate, *French Academy of Science*, Paris, France
-
-
-
-## Publications
-
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
 
 
 ## Occupation
 
-`1600`
-__Royal Mint__, London
+`Mar 2025 - Jun 2025`
+__Family Search | Technical Intern__, Remote, USA
 
-- Warden
-- Minted coins
+- Developed a Python script using BeautifulSoup to extract over 13,000 rows and 156,000 cells of structured data from 
+external websites. Replaced a repetitive manual copy-paste process, estimated at 120+ hours of human effort, with a 
+single-click automation, significantly improving speed, accuracy, and scalability. 
+- Built a reusable Python CLI tool to inspect, clean, and validate CSV datasets across multiple files. 
+- Used pandas to implement functionality such as fixing encodin
 
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
+`Apr 2024 -  Jun 2025`
+__Murdock InfoTech | Web Developer Intern__, Remote, USA
 
+- Developed an IVR system using Twilio's Voice API, customers can navigate menus through voice or keypad inputs 
+- Utilized Node.js to log call data, which was later processed for performance analysis and improving customer interactions 
+- Authored YAML configuration files and Dockerized the app
 
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: Dec 2025 -->
