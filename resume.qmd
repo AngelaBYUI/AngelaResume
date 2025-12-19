@@ -3,7 +3,7 @@ layout: cv
 title: Angela's CV
 ---
 # Angela Chen
-Physicist, Mathematician, Cambridge professor.
+Computer Science student in BYU-Idaho
 
 <div id="webaddress">
 <a href="https://angelabyui.github.io/AngelaResume/">https://angelabyui.github.io/AngelaResume/</a>
